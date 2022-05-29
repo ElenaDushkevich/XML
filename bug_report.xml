@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<Bugreports>
+        <Bug_report_id>1</Bug_report_id>
+        <Summary>Engineering calculator is displayed without the buttons required for this type of calculator</Summary>
+        <Severity>Major</Severity>
+        <Description>When changing a regular calculator to an engineering one, additional buttons that an engineering calculator should have, do not appear on the screen</Description>
+        <Steptoreproduce>1. Open calc.exe</Steptoreproduce>
+        <Steptoreproduce>2. Click 'Выбор'</Steptoreproduce>
+        <Steptoreproduce>3. Сlick 'Инженерный'</Steptoreproduce>
+        <Actualresult>Engineering calculator is displayed without the buttons required for this type of calculator</Actualresult>
+        <Expectedresult>Engineering calculator is displayed with the buttons required for this type of calculator</Expectedresult>
+</Bugreports>
